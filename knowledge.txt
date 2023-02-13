@@ -1,0 +1,127 @@
+1- c'est quoi les types des methodes de gestion ? CHECK
+il ya deux methodes previsible et imprévsible
+
+2- donner le definition de gestion de projet? CHECK
+c'est l'emsemble des activie qui visant a organiser le déroulement de projet et à en atteindre les objectifs en temps
+
+3- donner les phases de projet? CHECK
+lancement, planification ,execution, cloture
+
+4- defintion de chef de projet? CHECK
+    c'est le personne qui piloter l'equipe et assurer le suivi de projet et la maintenance et l'evolution de projet
+    et le personne responsable de la planification et la comunication avec les parties prenant
+
+5- definition le cahier des charges
+Le cahier des charges, également appelé CDC, est un document élaboré lors du cadrage d’un projet il permet de formaliser les besoins, 
+les objectifs, les contraintes, les fonctionnalités attendues, les délais et le budget prévisionnel de projet.
+
+6- definition de la phase de planification
+c'est l'activite qui consiste de determine et ordonné les taches et estimer leur charges et determine les ressource necessaire a leur realisation.
+
+7- c'est quoi le premier etapes dans la plannification d'un projet?
+le premier etapes est detemine les objectifs de projet et definir clarement l'enoncé du contenu de projet
+
+8- definition de charte de projet?
+
+la charte de projet est généralement un document court qui explique le projet de maniére claire et concise, et fait un reference a des 
+documents plus détaillés pour des informations supplémentaires.
+
+9- c'est quoi un projet?
+c'est un effort temporaire qui visant à créer un produit , service ou resultat unique
+un projet est un effort temporaire qui visant à créer un produit, service ou résultat unique.
+
+10- c'est quoi ressource?
+c'est un element necessaire pour realiser un tache ou un projet.
+11- les parties prenant d'un projet ?
+c'est l'emsemble des personnees qui a quelque choose a faire avec le projet.
+
+12- les types des parties prenant   
+il ya deux types des acteures externes et acteur interne 
+    externes: 
+        les fournisseur, client, les organismes privée
+    internes:
+        le sponsor de projet, la direction, l'equipe de projet
+13- le principaux roles d'un projet informatique
+    CPI => chef de projet informatique
+        Un chef de projet informatique est une personne responsable de la planification et de la mise en œuvre réussie d'un projet
+        informatique en gérant les ressources, les délais et le budget, en travaillant avec les différents départements et en communiquant 
+        avec les parties prenantes.
+
+14- la matrice RACI
+
+    la matrice RACI(Responsable, Accontable, Consulted, Informed) définit les roles et les responsabilités de chaque personne
+    dans l'equipe de projet en clarifiant les attentes de participation et les information pour chaque taches ou activitées
+
+    Responsable     => un personne qui realise la tache.
+    Accountable     => qui approuve la tâche.
+    consulted       => qui est consulté.
+    informed        => qui doit etre informé.
+
+15-les caracteristiques de base de projet:
+    - des objectifs         => le projet doit comporter des objectifs claire
+    - une limite de temps   => un temps de debut et de fin.
+    - les ressource         => les choses qu'on a transforme en resultat.
+    - une activités         => l'action qui transforme les ressource en resultat attendues.
+    - les résultat attendus => Les résultats attendus se créent à partir des activités du projet.
+
+16- les contraintes de la gestion de projet    page(17)
+
+
+
+
+
+
+
+
+
+
+
+
+
+diagramme de GANTT:
+    le diagramme de Gantt est un outil de planifiaction de projet qui permet de visualiser les tâches, 
+    les délais et les dépendances entre les tâches.
+    il est représenté sous forme de barres  indiquent la durée de chaque tâche.
+    cet outile aide a suivre l'avancement de projet d'une maniére graphique.
+
+diagramme de PERT:
+    Le diagramme PERT (Program Evaluation and Review Technique) est un outil de gestion de projet utilisé pour planifier et
+    suivre les tâches complexes d'un projet. Il utilise un réseau de tâches pour représenter graphiquement les dépendances 
+    et les relations entre les tâches. Le but du diagramme PERT est de déterminer la durée totale du projet en identifiant
+    le chemin critique qui détermine le temps nécessaire pour terminer le projet
+
+diagrame de PERT:
+    la date plus Tôt    => homa li 3la lisr.
+    la date plus tard   => homa li 3la limn.
+    l'etape             => hadik li lta7t
+
+tache critique:
+    bach t3rf wach tache critique wla la kadir date au plus tard na9is date plus tôt 
+    if equal 0 then TRUE la tache est critique
+chemin critique:
+c'est l'emsemble des tahes crtiques il permet de nous informe de délai de projet.
+    howa lmajmo3a dyal les tâches critiques   
+
+
+les marges libre et les marges totales
+
+rkzo 3la scrum wl agile
+tache paralle 
+contrainte de succecion
+
+mli kykono 2 taches kayji mn ba3dhom nafs tache kanrepresentiwhom b circle w7da
+
+La somme dyal dyal la durée dyal les taches critique egale la dureé de projet.
+
+
+tache fictive:
+    hya wa7d tache li imaginary not real ce durée est nulle mais elle a un role important 
+    pour une meilleure lecture de graphe PERT
+
+    la deuxieme cas pour utiliser les taches fictives:
+        deus taches paralles  precednt par le meme tach et succèdent par la meme tache 
+        la solution hya :
+            kandiro wa7d l'etape fictive hdek li fiha no9at mota9ati3a
+            and kandiro m3a la tache le plus faible mn asl dok joj taches ama ola kano dok 2 taches 3ndhom same
+            délai (durée) t9dr tkhtar li briti mn mnhom
+
